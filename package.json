@@ -1,13 +1,16 @@
 {
     "name": "s22y-utils",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "这是s22y的工具库",
     "main": "index.js",
     "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["s22y", "utils"],
+    "keywords": [
+        "s22y",
+        "utils"
+    ],
     "author": "sooooooooooooooooootheby",
     "license": "ISC"
 }
