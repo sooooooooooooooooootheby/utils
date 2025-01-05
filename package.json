@@ -1,6 +1,6 @@
 {
     "name": "s22y-utils",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "这是s22y的工具库",
     "main": "index.js",
     "type": "module",
