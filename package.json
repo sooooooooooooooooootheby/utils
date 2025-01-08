@@ -12,5 +12,8 @@
         "utils"
     ],
     "author": "sooooooooooooooooootheby",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "crypto-js": "^4.2.0"
+    }
 }
